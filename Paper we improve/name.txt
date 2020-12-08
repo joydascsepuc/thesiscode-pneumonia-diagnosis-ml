@@ -1,0 +1,10 @@
+An Efficient Deep Learning Approach to Pneumonia Classification in Healthcare
+
+Article ID 4180949
+
+Okeke Stephen ,1 Mangal Sain  ,2 Uchenna Joseph Maduh ,3 and Do-Un Jeong  2
+
+Academic Editor: Ahyoung Choi
+
+
+https://www.hindawi.com/journals/jhe/2019/4180949/
